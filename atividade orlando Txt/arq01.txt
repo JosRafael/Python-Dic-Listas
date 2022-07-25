@@ -1,0 +1,5 @@
+Boson treinamentos
+Criando um arquivo de texto com Python
+Arquivo criado por Fabio dos Reis
+É isso ai pessoal!
+ 
